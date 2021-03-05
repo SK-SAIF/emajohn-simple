@@ -1,0 +1,13 @@
+.Products{
+    display: flex;
+}
+.product-name{
+    color: lightskyblue;
+    font-weight: 300;
+}
+.add-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
